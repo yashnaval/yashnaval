@@ -1,6 +1,6 @@
 ### Hi there,I'm yash. 👋
 ## I'm a Student.
-🏡 #### work from home.
+#### work from home🏡.
 [![HitCount](http://hits.dwyl.com/yashnaval/yashnaval.svg)](http://hits.dwyl.com/yashnaval/yashnaval)
 
 - 🔭 I’m currently working on Web project.
