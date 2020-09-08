@@ -9,7 +9,7 @@
 - 💬 Ask me about html,css,javascript.
 - 📫 How to reach me: you can send me mail.(yashnaval77@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: idk
+- ⚡ Fun fact: potterhead
 
 🏡 
 🐦
