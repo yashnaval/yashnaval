@@ -16,8 +16,8 @@
 * <a href="https://www.facebook.com/yash.naval.92/">
   <img align="left" alt="Yash Naval's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
- <a href="https://twitter.com/YashNaval2">
-  <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+* <a href="https://twitter.com/YashNaval2">
+  <img align="left" alt="Yash Naval's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 
