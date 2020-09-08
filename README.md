@@ -25,5 +25,10 @@
   <img align="left" alt="Yash Naval's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+* <a href="https://github.com/yashnaval">
+  <img align="left" alt="Yash Naval's Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+
 
 
