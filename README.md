@@ -4,13 +4,13 @@
 [![HitCount](http://hits.dwyl.com/yashnaval/yashnaval.svg)](http://hits.dwyl.com/yashnaval/yashnaval)
 
 - 🔭 I’m currently working on ***Web project***.
-- 🌱 I’m currently learning everything 🤣. 
-- 👯 I’m looking to collaborate on java project.
-- 🤔 I’m looking for help with Machine Learning.
-- 💬 Ask me about html,css,javascript.
-- 📫 How to reach me: you can send me email (yashnaval77@gmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: potterhead(i want that scar on my head⚡),i love to play online games & streaming.:computer:
+- 🌱 I’m currently learning ***everything 🤣***. 
+- 👯 I’m looking to collaborate on ***java project***.
+- 🤔 I’m looking for help with ***Machine Learning***.
+- 💬 Ask me about ***html,css,javascript***.
+- 📫 How to reach me: you can send me email ***(yashnaval77@gmail.com)***
+- 😄 Pronouns: ***he/him***
+- ⚡ Fun fact: ***potterhead(i want that scar on my head⚡),i love to play online games & streaming***.:computer:
 
 #### Other places you can find me:-
 * <a href="https://www.facebook.com/yash.naval.92/">
