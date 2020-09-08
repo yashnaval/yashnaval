@@ -12,8 +12,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: potterhead.
 
+🐣 [See my Tweet](https://www.facebook.com/yash.naval.92/)
 
-
-<a href="https://www.facebook.com/yash.naval.92/">
-  <img align="left" alt="Yash Naval's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
