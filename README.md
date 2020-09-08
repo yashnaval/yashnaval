@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Web project.
--🌱 I’m currently learning java. 
+- 🌱 I’m currently learning java. 
 - 👯 I’m looking to collaborate on java project.
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about html,css,javascript.
