@@ -11,10 +11,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🏡 
+🐦
+📺
+🎥
+📦
+📷
+👔
