@@ -1,5 +1,5 @@
-### Hi there,I'm yash. 👋
-## I'm a student.
+## Hi there,I'm yash. 👋
+### I'm a IT Engineer who aims to be able to find an exciting and challenging entry level position in the Information & Technology industry.
 #### work from home🏡.
 [![HitCount](http://hits.dwyl.com/yashnaval/yashnaval.svg)](http://hits.dwyl.com/yashnaval/yashnaval)
 
