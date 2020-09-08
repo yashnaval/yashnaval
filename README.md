@@ -1,9 +1,6 @@
 ### Hi,I'm yash. 👋
+## I'm a Student.
 
-<!--
-**yashnaval/yashnaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web project.
 -🌱 I’m currently learning java. 
@@ -13,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can send me mail.(yashnaval77@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk
--->
+
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
