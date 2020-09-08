@@ -29,6 +29,10 @@
   <img align="left" alt="Yash Naval's Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+* <a href="https://www.linkedin.com/in/yash-naval-96104b1b5/">
+  <img align="left" alt="Yash Naval's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 
 
 
