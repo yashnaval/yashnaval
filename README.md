@@ -33,7 +33,7 @@
   <img align="left" alt="Yash Naval's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-### I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer(Fr) and designer. I like front-end development with React/Gatsby/Vue/TS/Redwood and sometimes Node.  I love trying out new technologies and update with modern tools helping our lives more easier.
+### I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an web designer. I like front-end development.I love trying out new technologies and update with modern tools helping our lives more easier.
 ## Happy coding !!
 
 
