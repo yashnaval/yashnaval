@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about html,css,javascript.
 - 📫 How to reach me: you can send me mail.yashnaval77@gmail.com.
- -😄 Pronouns: he/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: potterhead(i want that scar on my head⚡),i love to play online games & streaming.:computer:
 
 #### Other places you can find me:-
