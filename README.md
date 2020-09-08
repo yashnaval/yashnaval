@@ -10,7 +10,7 @@
 - 💬 Ask me about html,css,javascript.
 - 📫 How to reach me: you can send me mail.(yashnaval77@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: potterhead.
+- ⚡ Fun fact: potterhead(i want that scar on my head⚡),i love to play online games & streaming.:computer:
 
-🐣 [See my Tweet](https://www.facebook.com/yash.naval.92/)
+
 
