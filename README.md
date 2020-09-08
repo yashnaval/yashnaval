@@ -3,7 +3,7 @@
 #### work from home🏡.
 [![HitCount](http://hits.dwyl.com/yashnaval/yashnaval.svg)](http://hits.dwyl.com/yashnaval/yashnaval)
 
-- 🔭 I’m currently working on Web project.
+- 🔭 I’m currently working on ***Web project***.
 - 🌱 I’m currently learning everything 🤣. 
 - 👯 I’m looking to collaborate on java project.
 - 🤔 I’m looking for help with Machine Learning.
