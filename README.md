@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on java project.
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about html,css,javascript.
-- 📫 How to reach me: you can send me mail-yashnaval77@gmail.com.
+- 📫 How to reach me: you can send me email (yashnaval77@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: potterhead(i want that scar on my head⚡),i love to play online games & streaming.:computer:
 
